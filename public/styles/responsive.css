@@ -27,7 +27,17 @@
     #page-search-results .cards img {
         height: 250px;
     }
+
+    #page-create-point .field-group {
+        flex-direction: column;
+    }
+
+    #page-create-point .field-group .field + .field {
+        margin-left: 0;
+    }    
 }
+
+
 
 @media (min-width: 1700px) {
     #page-home {
@@ -37,7 +47,9 @@
 
 @media (max-height: 760px) { /*altura, menos que 760px ele segue as instruções abaixo*/
     #page-home {
-        background-position-y: 200vw; /*fica fixo a imagem de fundo quando for <= 760px*/
+        background-position-y: 200px; /*fica fixo a imagem de fundo quando for <= 760px*/
     }
 }
+
+
 
