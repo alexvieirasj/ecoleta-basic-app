@@ -53,7 +53,7 @@ document
 const itemsToCollect = document.querySelectorAll(".items-grid li");
 
 for(const item of itemsToCollect){
-    item.addEventListener("click", handleSelectedItem);
+    item.addEventListener("click", handleSelectedItem); //adicionado uma callback, para executar somente quando clicar 
 }
 
 
@@ -63,14 +63,15 @@ let selectedItems = [];
 
 function handleSelectedItem(event){
 
-    const itemLi = event.target;
+    const itemLi = event.target; //pega "um li clicado"
+
 
     //adicionar ou remover um classe com javascript
     itemLi.classList.toggle("selected");
 
-    const itemId = itemLi.dataset.id;
+    const itemId = itemLi.dataset.id; //pega o id
 
-
+    // console.log('ITEM ID: ' + itemId);
 
     //verificar se existem itens selecionados, se sim
     //pegar os itens selecionados
@@ -97,6 +98,7 @@ function handleSelectedItem(event){
     }
     //console.log(selectedItems); //verifica o array que armazena os dados como está sndo atualizado
 
+    // console.log('Selected Items: ' + selectedItems);
 
     //atualizar o campo escondido com os itens selecionado
     collectedItems.value = selectedItems;
