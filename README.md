@@ -23,6 +23,7 @@ As tecnologias utilizadas no projeto foram:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
 - [NPM](https://www.npmjs.com/)
 - [Nodemon](https://nodemon.io/)
 - [SQLite3](https://www.sqlite.org/version3.html)
@@ -31,5 +32,5 @@ As tecnologias utilizadas no projeto foram:
 
 ## :memo: Licença
 
-Este projeto está sob a MIT License. Acesso o arquivo [LICENSE](https://github.com/alexvieirasj/nlw/blob/master/LICENSE) para maiores detalhes.
+Este projeto está sob a MIT License. Acesso o arquivo [LICENSE](https://github.com/alexvieirasj/nlw/blob/master/LICENSE) para maiores detalhes. 
 
