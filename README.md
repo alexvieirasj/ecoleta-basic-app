@@ -32,6 +32,8 @@ As tecnologias utilizadas no projeto foram:
 
 ## :package: Como utilizar o projeto
 
+É preciso ter instalado no computador o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/) para clonar e executar o projeto
+
 ```bash
 
     # Clonar o repositório
@@ -45,7 +47,8 @@ As tecnologias utilizadas no projeto foram:
 
     # Iniciar o projeto
     $ npm start 
-
+    
+    # running on port 3000
 ```
 
 ## :memo: Licença
