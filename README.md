@@ -30,6 +30,24 @@ As tecnologias utilizadas no projeto foram:
 
 - Obs: menção para api do [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1) que foi consumida para pesquisa das cidades e estados
 
+## :package: Como utilizar o projeto
+
+```bash
+
+    # Clonar o repositório
+    $ git clone https://github.com/alexvieirasj/nlw.git
+
+    # Entrar no diretório baixado
+    $ cd nlw
+
+    # Instalar as dependências        
+    $ npm install 
+
+    # Iniciar o projeto
+    $ npm start 
+
+```
+
 ## :memo: Licença
 
 Este projeto está sob a MIT License. Acesso o arquivo [LICENSE](https://github.com/alexvieirasj/nlw/blob/master/LICENSE) para maiores detalhes. 
