@@ -26,7 +26,8 @@ nunjucks.configure("src/views",  {
 //req: Requisição
 //res: Resposta
 server.get("/", (req, res) => {
-    return res.render("index.html", { title: "Um título" });
+    // return res.render("index.html", { title: "Um título" });
+    return res.render("index.html");
 });
 
 server.get("/create-point", (req, res) => {
@@ -34,7 +35,8 @@ server.get("/create-point", (req, res) => {
     //req.query: Query Strings da nossa url, pega os dados enviado no form da pagina
     //console.log(req.query);
 
-    return res.render("create-point.html", { saved: true });
+    // return res.render("create-point.html", { saved: true });
+       return res.render("create-point.html");
 });
 
 server.post("/savepoint", (req, res) => {
@@ -113,6 +115,6 @@ server.get("/search", (req, res) => {
 
 
 
-//ligar o servidor passa a porta
+//ligar o servidor e passar a porta
 server.listen(3000);
 
