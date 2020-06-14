@@ -10,9 +10,9 @@ O sistema foi desenvolvido no evento Next Level Week Starter (**NLW**) da empres
     <img alt="Capa Projeto" title="CapaProjeto" src="./public/assets/demonstracao-sistema.gif"/>
 </h1>
 
-## :grey_question: Sobre o evento NLW
+## :grey_question: Sobre o evento
 
-Esse é um evento gratuito, com duração de uma semana, feitos para desenvolvedores e iniciantes no mundo programação possam fazer networking, conhecer novas tecnologias (ou reforçar seus conhecimentos) com muito código e mão na massa.
+Next Level Week Starter é um evento gratuito, com duração de uma semana, feitos para desenvolvedores e iniciantes no mundo programação possam fazer networking, conhecer novas tecnologias (ou reforçar seus conhecimentos) com muito código e mão na massa.
 
 ## :rocket: Tecnologias utilizadas no projeto
 
@@ -53,5 +53,5 @@ As tecnologias utilizadas no projeto foram:
 
 ## :memo: Licença
 
-Este projeto está sob a MIT License. Acesso o arquivo [LICENSE](https://github.com/alexvieirasj/nlw/blob/master/LICENSE) para maiores detalhes. 
+Este projeto está sob a MIT License. Acesso o arquivo [LICENSE](https://github.com/alexvieirasj/nlw/blob/master/LICENSE) para maiores detalhes.
 
