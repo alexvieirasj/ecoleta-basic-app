@@ -4,7 +4,7 @@
 
 ## 💻 Detalhes do projeto
 
-O sistema foi desenvolvido no evento Next Level Week Starter (**NLW**) da empresa [Rocketseat](https://rocketseat.com.br/). O projeto tem por objetivo disponibilizar um sistema onde as pessoas consigam encontrar empresas que coletam resíduos para descarte.
+O sistema foi desenvolvido no evento Next Level Week Starter (**NLW**) da empresa [Rocketseat](https://rocketseat.com.br/). O projeto tem por objetivo disponibilizar um sistema onde as pessoas consigam encontrar empresas que coletam resíduos para descarte na sua cidade.
 
 <h1 align="center">
     <img alt="Capa Projeto" title="CapaProjeto" src="./public/assets/demonstracao-sistema.gif"/>
