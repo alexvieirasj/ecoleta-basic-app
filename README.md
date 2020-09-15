@@ -32,7 +32,7 @@ As tecnologias utilizadas no projeto foram:
 
 ## :package: Como utilizar o projeto
 
-É preciso ter instalado no computador o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/) para clonar e executar o projeto
+É preciso ter instalado no computador o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/) para clonar e executar o projeto. O projeto pode ser baixado com as linhas de comando ou no formato zip clicando no botão "Code" na opção "Download ZIP"
 
 ```bash
 
