@@ -12,7 +12,7 @@ O sistema foi desenvolvido no evento Next Level Week Starter (**NLW**) da empres
 
 ## :grey_question: Sobre o evento
 
-Next Level Week Starter é um evento gratuito, com duração de uma semana, feitos para desenvolvedores experientes e iniciantes no mundo da programação para que possam fazer networking, conhecer novas tecnologias (ou reforçar seus conhecimentos) com muito código e mão na massa.
+Next Level Week Starter (NLW) é um evento gratuito, com duração de uma semana, feitos para desenvolvedores experientes e iniciantes no mundo da programação para que possam fazer networking, conhecer novas tecnologias (ou reforçar seus conhecimentos) com muito código e mão na massa.
 
 ## :rocket: Tecnologias utilizadas no projeto
 
