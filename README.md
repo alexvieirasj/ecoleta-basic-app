@@ -4,15 +4,15 @@
 
 ## 💻 Detalhes do projeto
 
-O sistema foi desenvolvido no evento Next Level Week Starter (**NLW**) da empresa [Rocketseat](https://rocketseat.com.br/). O projeto que tem por objetivo disponibilizar um sistema onde as pessoas consigam encontrar ou cadastrar empresas que coletam resíduos para descarte nas cidade cadastradas.
+O sistema foi desenvolvido no evento Next Level Week Starter (**NLW**) da empresa [Rocketseat](https://rocketseat.com.br/). O projeto que tem por objetivo disponibilizar um sistema onde as pessoas consigam encontrar ou cadastrar empresas que coletam resíduos para descarte nas cidades buscadas.
 
 <h1 align="center">
     <img alt="Capa Projeto" title="CapaProjeto" src="./public/assets/demonstracao-sistema.gif"/>
 </h1>
 
-## :grey_question: Sobre o evento
+## :grey_question: Sobre esse evento
 
-Next Level Week Starter (NLW) é um evento gratuito, com duração de uma semana, feitos para desenvolvedores experientes e iniciantes no mundo da programação para que possam fazer networking, conhecer novas tecnologias (ou reforçar seus conhecimentos) com muito código e mão na massa.
+Next Level Week Starter (NLW) é um evento gratuito, com duração de uma semana, feitos para desenvolvedores iniciantes e experientes no mundo da programação, para que possam fazer networking, conhecer novas tecnologias (ou reforçar seus conhecimentos) com muito código e mão na massa.
 
 ## :rocket: Tecnologias utilizadas no projeto
 
