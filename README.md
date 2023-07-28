@@ -2,6 +2,15 @@
   <img alt="Ecoleta" title="#Ecoleta" src="./public/assets/logo.svg" width="200px" />
 </h1>
 
+<p align="center">
+    <img alt="Origem Projeto" src="https://img.shields.io/badge/Project-Course-informational">
+    <img src="https://img.shields.io/badge/Course-Rocketseat-blueviolet?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alexvieirasj/ecoleta-basic-app">
+    <img alt="Difficult Level" src="https://img.shields.io/badge/level-medium-yellow">
+    <img alt="Issue" src="https://img.shields.io/bitbucket/issues/alexvieirasj/ecoleta-basic-app?style=critical">
+    <img alt="Pull Request" src="https://img.shields.io/bitbucket/pr-raw/alexvieirasj/ecoleta-basic-app?style=critical">
+</p>
+
 ## 💻 Detalhes do projeto
 
 O sistema foi desenvolvido no evento Next Level Week Starter (**NLW**) da empresa [Rocketseat](https://rocketseat.com.br/). O projeto que tem por objetivo disponibilizar um sistema onde as pessoas consigam encontrar e/ou cadastrar facilmente empresas que coletam resíduos para descarte nas cidades buscadas no sistema.
@@ -9,10 +18,6 @@ O sistema foi desenvolvido no evento Next Level Week Starter (**NLW**) da empres
 <h1 align="center">
     <img alt="Capa Projeto" title="CapaProjeto" src="./public/assets/demonstracao-sistema.gif"/>
 </h1>
-
-## 📚 Informações sobre o projeto
-
-Next Level Week Starter (NLW) é um evento gratuito, com duração de uma semana, feitos para desenvolvedores iniciantes e experientes no mundo da programação, para que possam fazer networking, conhecer novas tecnologias (ou reforçar seus conhecimentos) com muito código e mão na massa.
 
 ## :rocket: Tecnologias utilizadas no projeto
 
@@ -29,7 +34,7 @@ As tecnologias/ferramentas utilizadas no projeto foram:
 - [SQLite3](https://www.sqlite.org/version3.html)
 - [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1) *API que foi utilizada para pesquisa das cidades e estados
 
-## 👨🏻‍💻 Lista de ajustes e melhorias a serem feitas
+## 👨🏻‍💻 Lista de ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas listadas abaixo:
 
