@@ -45,10 +45,10 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ```bash
 
     # Clonar os repositórios
-    $ git clone git@github.com:alexvieirasj/nlw.git
+    $ git clone git@github.com:alexvieirasj/ecoleta-basic-app.git
     
     # Entrar no diretório baixado
-    $ cd nlw
+    $ cd ecoleta-basic-app
 
     # Instalar as dependências        
     $ npm install 
