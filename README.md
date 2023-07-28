@@ -1,5 +1,5 @@
-<h1 align="center">
-  <img alt="Ecoleta" title="#Ecoleta" src="./public/assets/logo.svg" width="300px" />
+<h1 id="title" align="center">
+  <img alt="Ecoleta" title="#Ecoleta" src="./public/assets/logo.svg" width="200px" />
 </h1>
 
 ## 💻 Detalhes do projeto
@@ -10,13 +10,13 @@ O sistema foi desenvolvido no evento Next Level Week Starter (**NLW**) da empres
     <img alt="Capa Projeto" title="CapaProjeto" src="./public/assets/demonstracao-sistema.gif"/>
 </h1>
 
-## :grey_question: Sobre esse evento
+## 📚 Informações sobre o projeto
 
 Next Level Week Starter (NLW) é um evento gratuito, com duração de uma semana, feitos para desenvolvedores iniciantes e experientes no mundo da programação, para que possam fazer networking, conhecer novas tecnologias (ou reforçar seus conhecimentos) com muito código e mão na massa.
 
 ## :rocket: Tecnologias utilizadas no projeto
 
-As tecnologias utilizadas no projeto foram:
+As tecnologias/ferramentas utilizadas no projeto foram:
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -27,8 +27,16 @@ As tecnologias utilizadas no projeto foram:
 - [NPM](https://www.npmjs.com/)
 - [Nodemon](https://nodemon.io/)
 - [SQLite3](https://www.sqlite.org/version3.html)
+- [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1) *API que foi utilizada para pesquisa das cidades e estados
 
-- Obs: menção para api do [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1) que foi consumida para pesquisa das cidades e estados
+## 👨🏻‍💻 Lista de ajustes e melhorias a serem feitas
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas listadas abaixo:
+
+- [ ] Autocomplete para preencher as cidades na pesquisa
+- [ ] Colocar os ícones do lado das caracteristicas da empresa cadastrada
+- [ ] Colocar site de sugestão para pegar imagenns no campo
+- [ ] Na listagem das empresas, fazer filtro por categoria de residuos
 
 ## :package: Como utilizar o projeto
 
@@ -36,9 +44,9 @@ As tecnologias utilizadas no projeto foram:
 
 ```bash
 
-    # Clonar o repositório
-    $ git clone https://github.com/alexvieirasj/nlw.git
-
+    # Clonar os repositórios
+    $ git clone git@github.com:alexvieirasj/nlw.git
+    
     # Entrar no diretório baixado
     $ cd nlw
 
@@ -51,7 +59,29 @@ As tecnologias utilizadas no projeto foram:
     # running on port 3000
 ```
 
-## :memo: Licença
+## 🤝 Colaboradores
 
-Este projeto está sob a MIT License. Acesso o arquivo [LICENSE](https://github.com/alexvieirasj/nlw/blob/master/LICENSE) para maiores detalhes.
+Lista de pessoas que contribuíram para este projeto:
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/23263907" width="100px;" alt="Foto de Alex Vieira no GitHub"/><br>
+        <sub>
+          <b>Alex Vieira</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 😄 Seja um dos contribuidores<br>
+
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+
+## 📝 Licença
+
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+
+[⬆ Voltar ao topo](#title)
