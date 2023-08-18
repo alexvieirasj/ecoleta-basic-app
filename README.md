@@ -11,17 +11,17 @@
     <img alt="Pull Request" src="https://img.shields.io/bitbucket/pr-raw/alexvieirasj/ecoleta-basic-app?style=critical">
 </p>
 
-## 💻 Detalhes do projeto
+## 💻 Project details
 
-O sistema foi desenvolvido no evento Next Level Week Starter (**NLW**) da empresa [Rocketseat](https://rocketseat.com.br/). O projeto que tem por objetivo disponibilizar um sistema onde as pessoas consigam encontrar e/ou cadastrar facilmente empresas que coletam resíduos para descarte nas cidades buscadas no sistema.
+The system was developed during Next Level Week Starter (**NLW**) from company [Rocketseat](https://rocketseat.com.br/). The project aims to provide a system where people can easily find and/or register companies that collect waste for disposal in the cities searched within the system.
 
 <h1 align="center">
     <img alt="Capa Projeto" title="CapaProjeto" src="./public/assets/demonstracao-sistema.gif"/>
 </h1>
 
-## :rocket: Tecnologias utilizadas no projeto
+## :rocket: Technologies used in the project
 
-As tecnologias/ferramentas utilizadas no projeto foram:
+The technologies/tools used in the project were:
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -32,41 +32,40 @@ As tecnologias/ferramentas utilizadas no projeto foram:
 - [NPM](https://www.npmjs.com/)
 - [Nodemon](https://nodemon.io/)
 - [SQLite3](https://www.sqlite.org/version3.html)
-- [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1) *API que foi utilizada para pesquisa das cidades e estados
+- [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1) *API used for city and state search
 
-## 👨🏻‍💻 Lista de ajustes e melhorias
+## 👨🏻‍💻 List of adjustments and improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas listadas abaixo:
+The project is still under development, and the upcoming updates will focus on the following tasks listed below:
 
-- [ ] Autocomplete para preencher as cidades na pesquisa
-- [ ] Colocar os ícones do lado das caracteristicas da empresa cadastrada
-- [ ] Colocar site de sugestão para pegar imagenns no campo
-- [ ] Na listagem das empresas, fazer filtro por categoria de residuos
+- [ ] Implement autocomplete feature for city input in search
+- [ ] Add icons next to registered company features
+- [ ] Include a suggestion website to fetch images in the field
+- [ ] Implement waste category filter in the list of companies
 
-## :package: Como utilizar o projeto
+## :package: How to use the project
 
-É preciso ter instalado no computador o [Git](https://git-scm.com) e o [Node.js](https://nodejs.org/) para clonar e executar o projeto. O projeto pode ser baixado com as linhas de comando ou no formato zip clicando no botão "Code" na opção "Download ZIP"
+You need to have [Git](https://git-scm.com) and [Node.js](https://nodejs.org/) installed on your computer to clone and run the project. The project can be downloaded using command lines or in zip format by clicking the "Code" button and selecting "Download ZIP."
 
 ```bash
-
-    # Clonar os repositórios
-    $ git clone git@github.com:alexvieirasj/ecoleta-basic-app.git
+   # Clone the repository
+   $ git clone git@github.com:alexvieirasj/ecoleta-basic-app.git
     
-    # Entrar no diretório baixado
-    $ cd ecoleta-basic-app
-
-    # Instalar as dependências        
-    $ npm install 
-
-    # Iniciar o projeto
-    $ npm start 
+   # Navigate to the downloaded directory
+   $ cd ecoleta-basic-app
     
-    # running on port 3000
+   # Install the dependencies
+   $ npm install
+    
+   # Start the project
+   $ npm start
+
+   # The project will be running on port 3000
 ```
 
-## 🤝 Colaboradores
+## 🤝 Contributors
 
-Lista de pessoas que contribuíram para este projeto:
+List of individuals who contributed to this project
 
 <table>
   <tr>
@@ -81,12 +80,12 @@ Lista de pessoas que contribuíram para este projeto:
   </tr>
 </table>
 
-## 😄 Seja um dos contribuidores<br>
+## 😄 Become one of the contributors<br>
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+Want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under a license. Please refer to the [LICENSE](LICENSE.md) file for more details.
 
-[⬆ Voltar ao topo](#title)
+[⬆ Back to the top](#title)
