@@ -1,14 +1,14 @@
-# Como contribuir?
+# How to Contribute?
 
-Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, [abra uma issue](https://github.com/alexvieirasj/nlw/issues/new).
+This is a completely open project that accepts contributions via pull requests on GitHub. This document is responsible for aligning contributions according to the established standards within it. If you have any questions, [abra uma issue](https://github.com/alexvieirasj/nlw/issues/new).
 
-## Passos
+## Steps
 
-1. Crie um fork deste repositório.
-2. Envie seus commits em português.
-3. Insira um pequeno resumo sobre o que foi adicionado.
-4. Solicite um pull request.
+1. Fork this repository.
+2. Submit your commits in Portuguese.
+3. Provide a brief summary of what has been added.
+4. Request a pull request.
 
-## Recomendação
+## Recommendation
 
-Para uma melhor semântica nos commits, utilize os commits no padrão desse projeto -> [Padrões de Commit](https://github.com/iuricode/padroes-de-commits), são os mesmos usados aqui. Assim ficará mais fácil para avaliar seu pull request.
+For better commit semantics, use the commit standards of this project -> [Padrões de Commit](https://github.com/iuricode/padroes-de-commits), they are the same ones used here. This will make it easier to evaluate your pull request.
