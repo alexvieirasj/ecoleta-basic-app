@@ -1,3 +1,3 @@
 #### Copyright © 2023 / [Alex Vieira](https://github.com/alexvieirasj)
 
-A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, sem restrição nos direitos de usar, copiar, modificar e mesclar.
+"Permission is granted, free of charge, to any person obtaining a copy of this file, without restrictions on the rights to use, copy, modify, and merge.
