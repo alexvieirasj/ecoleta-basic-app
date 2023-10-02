@@ -15,9 +15,7 @@
 
 The system was developed during Next Level Week Starter (**NLW**) from company [Rocketseat](https://rocketseat.com.br/). The project aims to provide a system where people can easily find and/or register companies that collect waste for disposal in the cities searched within the system.
 
-<h1 align="center">
-    <img alt="Capa Projeto" title="CapaProjeto" src="./public/assets/demonstracao-sistema.gif"/>
-</h1>
+![til](./public/assets/demonstracao-sistema.gif)
 
 ## :rocket: Technologies used in the project
 
